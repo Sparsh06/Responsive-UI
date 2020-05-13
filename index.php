@@ -1,1 +1,1 @@
-<?php include_once("style.htm"); ?>
+<?php include_once("index.html"); ?>
